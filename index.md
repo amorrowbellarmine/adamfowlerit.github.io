@@ -5,35 +5,35 @@ title: Microsoft Portals
 
 ## Microsoft 365 Admin Portals
 
-| Portal Name                               | URL                                                                                                                                                      |
-| ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
+| Portal Name                               | URL                                                                                                                                                      | AKA URL |
+| ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|-------- |
+| Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           | [https://aka.ms/admincenter](https://aka.ms/admincenter){:target="_blank"} |
 | Microsoft 365 Compliance                  | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                                 |
-| Microsoft Endpoint Manager Admin Console  | [https://endpoint.microsoft.com/](https://endpoint.microsoft.com/){:target="_blank"}                                                                     |
+| Microsoft Endpoint Manager Admin Console  | [https://endpoint.microsoft.com/](https://endpoint.microsoft.com/){:target="_blank"}                                                                     | [https://aka.ms/dmac](https://aka.ms/dmac){:target="_blank"} |
 | Exchange Admin Center (new)                     | [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/){:target="_blank"}                                                         |
 | Exchange Admin Center (old)                     | [https://outlook.office365.com/ecp/](https://outlook.office365.com/ecp/){:target="_blank"}                                                         |
-| Microsoft Teams Admin Center              | [https://admin.teams.microsoft.com/](https://admin.teams.microsoft.com/){:target="_blank"}                                                               |
+| Microsoft Teams Admin Center              | [https://admin.teams.microsoft.com/](https://admin.teams.microsoft.com/){:target="_blank"}                                                               | [https://aka.ms/teamsadmincenter](https://aka.ms/teamsadmincenter){:target="_blank"} |
 | SharePoint Admin Center                   | [https://admin.microsoft.com/sharepoint](https://admin.microsoft.com/sharepoint){:target="_blank"}                                                       |
 | OneDrive Admin Center                     | [https://admin.onedrive.com/](https://admin.onedrive.com/){:target="_blank"}                                                                             |
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
-| Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
+| Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             | [https://aka.ms/ppac](https://aka.ms/ppac){:target="_blank"} |
 | Microsoft Stream Admin Center               | [https://web.microsoftstream.com/admin](https://web.microsoftstream.com/admin){:target="_blank"}                             |
 | Skype for Business admin center (deprecated)       | [https://webdir2a.online.lync.com/LSCP](https://webdir2a.online.lync.com/LSCP){:target="_blank"}                             |
 | Kaizala Management Portal             | [https://manage.kaiza.la/](https://manage.kaiza.la/){:target="_blank"}                             |
-| Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
+| Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             | [https://aka.ms/yammeradmincenter](https://aka.ms/yammeradmincenter){:target="_blank"} |
 | Microsoft Store for Business           | [https://businessstore.microsoft.com/](https://businessstore.microsoft.com/){:target="_blank"}                             |
 | Microsoft Store for Education          | [https://educationstore.microsoft.com/](https://educationstore.microsoft.com/){:target="_blank"}                             |
 | Microsoft Partner Center         | [https://partner.microsoft.com/dashboard](https://partner.microsoft.com/dashboard){:target="_blank"}                             |
 | Microsoft Remote Connectivity Analyzer         | [https://testconnectivity.microsoft.com](https://testconnectivity.microsoft.com){:target="_blank"}                       |
-| Microsoft 365 network connectivity test        | [https://connectivity.office.com/](https://connectivity.office.com/){:target="_blank"}                             |
+| Microsoft 365 network connectivity test        | [https://connectivity.office.com/](https://connectivity.office.com/){:target="_blank"}                             | [https://aka.ms/netonboard](https://aka.ms/netonboard){:target="_blank"} |
 
 
 ## Azure IT Admin Portals
 
-| Portal Name                            | URL                                                                                      |
-| ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Microsoft Azure Portal                 | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                            |
+| Portal Name                            | URL                                                                                      | AKA URL|
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|--------|
+| Microsoft Azure Portal                 | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                            | [https://aka.ms/azureportal](https://aka.ms/azureportal){:target="_blank"} |
 | Microsoft Azure (Release Candidate)    | [https://rc.portal.azure.com/](https://rc.portal.azure.com/){:target="_blank"}                      |
 | Microsoft Azure (Preview)              | [https://preview.portal.azure.com/](https://preview.portal.azure.com/){:target="_blank"}            |
 | Azure Resource Explorer                | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                      |
@@ -53,9 +53,9 @@ title: Microsoft Portals
 
 ## Microsoft Licensing/Support Portals
 
-| Portal Name                            | URL                                                                                      |
-| ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |
+| Portal Name                            | URL                                                                                      | AKA URL |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|---------|
+| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            | [https://aka.ms/vlsc](https://aka.ms/vlsc){:target="_blank"} |
 | Next Generation Volume Licensing   | [https://businessaccount.microsoft.com/](https://businessaccount.microsoft.com/){:target="_blank"}            |
 | Microsoft Azure Enterprise Portal   | [https://ea.azure.com/](https://ea.azure.com/){:target="_blank"}            |
 | Microsoft Services Hub   | [https://serviceshub.microsoft.com/](https://serviceshub.microsoft.com/){:target="_blank"}            |
